@@ -67,7 +67,7 @@ Using Excel Power Query, I:
 
 ![Looker Studio booking analysis dashboard](screenshots/looker_dashboard.png)
 
-**Interactive dashboard:** [View Looker Studio Report](REPLACE_WITH_YOUR_ACTUAL_REPORT_URL)
+**Interactive dashboard:** [View Looker Studio Report](httpsdatastudio.google.comreporting4be5429a-58b8-4b8d-bf1d-d3c13e0c24ae)
 
 ## Key Findings
 
