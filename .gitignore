@@ -1,0 +1,13 @@
+~$*.xlsx
+
+Thumbs.db
+Desktop.ini
+
+__pycache__/
+*.pyc
+
+.env
+.env.*
+!.env.example
+
+.vscode/
